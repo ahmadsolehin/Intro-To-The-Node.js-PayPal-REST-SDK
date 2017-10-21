@@ -26,8 +26,8 @@ $ npm start
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Ahmad solehin
+[mayonis masin](http://www.ahmadsolehin.com)
 
 ### Version
 
