@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "ahmadsolehin",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.5.7",
